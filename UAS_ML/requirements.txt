@@ -1,4 +1,4 @@
-altair==4.2.2==pypi_0
+
 anaconda-anon-usage==0.4.0==py310h8ddfbff_0
 anaconda-client==1.11.2==py310haa95532_0
 anaconda-navigator==2.4.3==py310haa95532_0
