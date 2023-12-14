@@ -1,5 +1,4 @@
 accessible-pygments==0.0.4
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 altair==4.2.2
 anaconda-anon-usage @ file:///C:/b/abs_4cqo3nmgh0/croot/anaconda-anon-usage_1694468596737/work
 anaconda-client==1.11.2
